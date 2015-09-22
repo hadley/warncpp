@@ -11,3 +11,5 @@ License: GPL-3
 LazyData: true
 LinkingTo: Rcpp, BH
 Imports: Rcpp
+URL: https://github.com/hadley/warncpp
+BugReports: https://github.com/hadley/warncpp/issues
